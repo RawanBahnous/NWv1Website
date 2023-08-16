@@ -1,4 +1,4 @@
-# NG Website
+# NW Website
 News system is developed using ASP.net API and Angular16 , it offers efficient features that allow users to seamlessly view all news articles, while providing administrators the capability to add news articles with enhanced authentication and authorization controls
 
 ## Project Documentation:
@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1Nu9gOGUyJ5AYFZJoy-EpfgQ1f2A-Fa4C?usp=dri
 
 ## How To Use:
    - Now you Can Register With a Register Form
-   - Make Crud Operations As NG Admin
+   - Make Crud Operations As NW Admin
    - Or Just View All Articles As Enduser
    - Search Article By Title
    - Sort By Publication Date or By Name
