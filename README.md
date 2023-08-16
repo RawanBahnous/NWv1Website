@@ -34,4 +34,4 @@ Follow these steps to run the NG project on your local machine:
 
    - Run the following command to start the development server:
 
-   - (ng serve -o)
+   - (ng serve -o) / (ng serve --proxy-config proxy.conf.json -o)
